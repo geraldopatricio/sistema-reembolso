@@ -7,10 +7,10 @@ Tela de login, cadastro de pessoa, dados bancarios, reembolso e impressão
 # Telas
 
 Login
-<img src=".img/login.JPG">
+<img src="./img/login.JPG">
 Cadastro
 
-<img src=".img/tela1.JPG">
+<img src="./img/tela1.JPG">
 
 Impressão
-<img src=".img/tela2.JPG">
+<img src="./img/tela2.JPG">
